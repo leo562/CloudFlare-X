@@ -19,3 +19,6 @@ Enjoy and happy coding!
 
 
 **Note:** This project is based on the selenium_driverless module, used in accordance with the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. It is intended for non-commercial purposes.
+
+**Disclaimer:** I am not responsible for any actions you take using this project. You are using it at your own risk.
+
