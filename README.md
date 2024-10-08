@@ -16,3 +16,6 @@ Enjoy and happy coding!
 1) pip3 install selenium_driverless
 2) pip3 install pyautogui
 3) python3 newbrowser.py (who runs on linux without a screen then - xvfb-run -a python3 newbrowser.py (install - apt install xvfb -y )   
+
+
+**Note:** This project is based on the selenium_driverless module, used in accordance with the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License. It is intended for non-commercial purposes.
